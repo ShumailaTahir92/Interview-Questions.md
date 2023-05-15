@@ -1,6 +1,6 @@
 # Interview-Questions.md
 
-## Here are some silly and philosophical questions you can ask to make an interview more interesting:;
+## Here are some silly and philosophical questions you can ask to make an interview more interesting;
 
 1. If you were a vegetable, which vegetable would you be and why?
 
